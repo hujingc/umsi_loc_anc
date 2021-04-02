@@ -1,0 +1,56 @@
+prefName@city@state@country@altNames@notes
+Albany, N.Y.@Albany@New York@U.S.A.@['Albany']@
+Austin, Tex.@Austin@Texas@U.S.A.@['Austin']@Note 'Austin' book is a Booklab, Inc., facsimile: Texas.
+Baltimore, Md.@Baltimore@Maryland@U.S.A.@['Baltimore', 'Baltimore, Md.']@
+Baton Rouge, La.@Baton Rouge@Louisiana@U.S.A.@['Baton Rouge']@
+Berkeley, Calif.@Berkeley@California@U.S.A.@['Berkeley']@
+Berlin, Germany@Berlin@@Germany@['Berlin']@
+Boston, Mass.@Boston@Massachusetts@U.S.A.@['Boston', 'Boston, Mass.', 'Boston and New York', 'Boston : publisher not identified']@'Boston and New York' and '... publisher not identified' are from the OCLC catalog. Assume Boston for the first, and the second is obviously Boston
+Cambridge, England@Cambridge@@England@['Cambridge England']@
+Cambridge, Mass.@Cambridge@Massachusetts@U.S.A.@['Cambridge', 'Cambridge, USA', 'Cambridge, Mass.']@Note 'Cambridge' books are both Harvard UP, so: Mass.
+Chicago, Ill.@Chicago@Illinois@U.S.A.@['Chicago', 'Chicago, Ill.', 'Chicago, Ill']@
+Vatican city@Vatican city@@"Vatican ""city"""@['Città del Vaticano']@
+Cleveland, Ohio@Cleveland@Ohio@U.S.A.@['Cleveland']@
+Concord, Mass.@Concord@Massachusetts@U.S.A.@['Concord, Mass.']@
+Dayton, Ohio@Dayton@Ohio@U.S.A.@['Dayton, O.']@
+Garden city, N.Y.@Garden city@New York@U.S.A.@['Garden city, N.Y.', 'Garden city, New York']@
+Guatemala@Guatemala@@Republic of Guatemala@['Guatemala']@
+Hartford, Conn.@Hartford@Connecticut@U.S.A.@['Hartford', 'Hartford, Conn.']@
+Heidelberg, Germany@Heidelberg@@Germany@['Heidelberg']@
+Honolulu, Hawaii@Honolulu@Hawaii@U.S.A.@['Honolulu']@
+Huntington, N.Y.@Huntington@New York@U.S.A.@['Huntington, N.Y.']@
+Indianapolis, Ind.@Indianapolis@Indiana@U.S.A.@['Indianapolis']@
+Ithaca, N.Y.@Ithaca@New York@U.S.A.@['Ithaca, New York']@
+Lee, Mass.@Lee@Massachusetts@U.S.A.@['Lee', 'Lee, Mass.']@
+Lincoln, Nebr.@Lincoln@Nebraska@U.S.A.@['Lincoln, Nebr.']@
+Lisbon, Portugal@Lisbon@@Portugal@['Lisboa']@
+London, England@London@@England@['London', 'Londini', 'London and New York']@'London and New York' is not _much_ more than a guess but seems to hold for the only book it currently applies to, 'Histories of Polybius', confirm any conventions with a librarian/cataloging expert
+Madrid, Spain@Madrid@@Spain@['Madrid']@
+Milan, Italy@Milan@@Italy@['Milan']@
+Minneapolis, Minn.@Minneapolis@Minnesota@U.S.A.@['Minneapolis, Minn.']@
+Montevideo, Uruguay@Montevideo@@Uruguay@['Montevideo']@
+Moscow, Russia@Moscow@@Russia@['Moscow']@
+Mexico@Mexico@@Mexico@['México']@
+Nashville, Tenn.@Nashville@Tennessee@U.S.A.@['Nashville, Tenn.']@
+New Haven, Conn.@New Haven@Connecticut@U.S.A.@['New Haven']@
+New Orleans, La.@New Orleans@Louisiana@U.S.A.@['New Orleans']@
+New York, N.Y.@New York@New York@U.S.A.@['New York', 'New York city', 'New York and London', 'New York city', 'New York etc', 'New York, N.Y', 'New York, N.Y.', 'New York, the Century Co.']@'New York and London' is for 'Classical studies in honour of Henry Drissler'.'New York etc' is for 'The life-work of the author of Uncle Tom's cabin'.'New York, the Century Co.' is an obvious cataloging error
+Norman, Okla.@Norman@Oklahoma@U.S.A.@['Norman']@Only the one book, and it's published by University of Oklahoma Press, so...
+Norwich, Conn.@Norwich@Connecticut@U.S.A.@['Norwich', 'Norwich, Conn.']@
+Oxford, England@Oxford@@England@['Oxford', 'Oxonii']@
+Paris, France@Paris@@France@['Paris']@
+Pasadena, Calif.@Pasadena@California@U.S.A.@['Pasadena, Calif.']@
+Philadelphia, Pa.@Philadelphia@Pennsylvania@U.S.A.@['Philadelphia']@
+Philadelphia, N.Y.@Philadelphia@New York@U.S.A.@['Philadelphia, New York']@
+Princeton, N.J.@Princeton@New Jersey@U.S.A.@['Princeton']@
+Providence, R.I.@Providence@Rhode Island @U.S.A.@['Providence, R.I.']@
+Salem, Mass.@Salem@Massachusetts@U.S.A.@['Salem, Mass.']@
+San Francisco, Calif.@San Francisco@California@U.S.A.@['San Francisco']@
+Santander, Spain@Santander@@Spain@['Santander']@
+Santiago, Chile@Santiago@@Chile@['Santiago de Chile']@
+St. Louis, Mo.@St. Louis@Missouri@U.S.A.@['St. Louis']@
+Stanford University, Calif.@Palo Alto@California@U.S.A.@['Stanford University, Calif.']@
+Tulsa, Okla.@Tulsa@Oklahoma@U.S.A.@['Tulsa, Okla.']@
+Vienna, Austria@Vienna@@Austria@['Wien']@
+Washington, D.C.@Washington@District of Columbia@U.S.A.@['Washington', 'Washington D.C']@book:00341 = dubious - could be NY and the publisher is 'Washington', see one of the records on WorldCat:https://www.worldcat.org/title/mexicos-capacity-to-pay-a-general-analysis-of-the-present-international-economic-position-of-mexico/oclc/253455343?referer=di&ht=edition
+Williamsport, Pa.@Williamsport@Pennsylvania@U.S.A.@['Williamsport']@
