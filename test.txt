@@ -1,3 +1,0 @@
-hello team
-use this for reference
-https://couchdb-python.readthedocs.io/en/latest/client.html
