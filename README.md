@@ -1,4 +1,4 @@
-#Section 0: Notebook Structure and Dependencies
+Section 0: Notebook Structure and Dependencies
 
 In order to view this notebook, jupyter notebook and python should be installed on the computer. Installing python via anaconda or miniconda is recommended (miniconda is the minimalist version of anaconda).
 
